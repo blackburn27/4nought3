@@ -6,5 +6,5 @@ A python script to bypass 403-forbidden. It covers methods like Host-Header Inje
 * `python 4nought3 http://127.0.0.1/forbidden.php`
 ![](example.png)
 
-# Developed By
+## Developed By
 [BlackBurn](https://github.com/blackburn27)
