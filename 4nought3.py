@@ -49,7 +49,7 @@ def url_end_injection(payload, defined_url):
     
 
 if len(sys.argv) != 2:
-    print("\033[1;31;40mSyntax error: \033[1;32;40muse \"python UPDATE_THIS url\"")
+    print("\033[1;31;40mSyntax error: \033[1;32;40muse \"python 4nought3.py url\"")
 else:
     url = sys.argv[1]
 #//////////////////////HOST HEADER INJECTIONS////////////////////////
